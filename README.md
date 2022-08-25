@@ -6,9 +6,9 @@
 <img src="https://img.shields.io/discord/temp?color=5765f3&label=Discord&logo=discord" />
 </a>
 
-<br />
-A Minecraft modpack containing handpicked mods for the optimal experience
 <br /><br />
+A Minecraft modpack containing handpicked mods for the optimal experience
+<br />
 
 ## Installation
 1. Download [CurseForge](https://download.curseforge.com/)
