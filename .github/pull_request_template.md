@@ -2,10 +2,10 @@
 [Place Link Here]()
 
 ## Problem
->*Please describe the problem this pull request is addressing*
+>*Describe the problem this pull request is addressing*
 
 ## Solution
->*Please describe the solution to address the problem*
+>*Describe the solution to address the problem*
 
 ## Changes
 What types of changes are introduced to the modpack?
