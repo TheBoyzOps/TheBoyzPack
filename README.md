@@ -5,7 +5,7 @@
 <a href="https://discord.gg/INVITEID">
 <img src="https://img.shields.io/discord/temp?color=5765f3&label=Discord&logo=discord" />
 </a>
-
+<br /> <br />
 A Minecraft modpack containing handpicked mods for the optimal experience
 <br />
 
