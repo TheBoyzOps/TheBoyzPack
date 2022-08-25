@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/discord/temp?color=5765f3&label=Discord&logo=discord" />
 </a>
 
-<br /><br />
 A Minecraft modpack containing handpicked mods for the optimal experience
 <br />
 
@@ -42,7 +41,7 @@ Memory: 💾<br />
 3. Locate and select Minecraft in the left side navigation bar
 4. Locate the *Minecraft Modding Folder* header
 5. Navigate to this folder in a terminal of your choice 
-    * `cd` *`insert file path here`*
+    * `cd insert file path here`
 6. Navigate into the instances folder 
     * `cd instances`
 7. Run the following commands
