@@ -32,3 +32,20 @@ OS: Windows, MacOS <br />
 CPU: 🚀<br />
 GPU: 🌕<br />
 Memory: 💾<br />
+
+## Developer Setup
+> * TheBoyzPack development requires [git](https://git-scm.com/) for version control
+> * TheBoyzPack recommends using [Visual Studio Code](https://code.visualstudio.com/) for development
+1. Follow the first three steps in the <a href=#installation>Installation</a> section
+2. Click the settings icon in the bottom left of the application
+3. Locate and select Minecraft in the left side navigation bar
+4. Locate the *Minecraft Modding Folder* header
+5. Navigate to this folder in a terminal of your choice 
+    * `cd insert file path here`
+6. Navigate into the instances folder 
+    * `cd instances`
+7. Run the following commands
+    1. `git clone https://github.com/TheBoyzOps/TheBoyzPack`
+    2. `cd TheBoyzPack`
+8. Validate that the modpack has shown up under the *My Modpacks* tab
+    * This may require a refresh
