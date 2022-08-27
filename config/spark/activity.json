@@ -5,6 +5,19 @@
       "name": "Kilakal",
       "uniqueId": "170bf4c2-3374-4fbd-891c-7ee5eb1504ba"
     },
+    "time": 1661558048461,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/nVVna0Dg3F"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kilakal",
+      "uniqueId": "170bf4c2-3374-4fbd-891c-7ee5eb1504ba"
+    },
     "time": 1661536778836,
     "type": "Profiler",
     "data": {

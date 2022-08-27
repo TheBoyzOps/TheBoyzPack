@@ -49,3 +49,7 @@ Memory: 💾<br />
     2. `cd TheBoyzPack`
 8. Validate that the modpack has shown up under the *My Modpacks* tab
     * This may require a refresh
+    * If the mods don't show up in the list:
+        1. Go into the mods folder and delete a mod
+        2. Add the mod back a few seconds later
+        3. See if that helped
