@@ -33,6 +33,17 @@
         "value": 10000000
       }
     },
+    "stepheightentityattribute:stepheight": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
     "minecraft:generic.max_health": {
       "enabled": true,
       "min": {
