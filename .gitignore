@@ -22,8 +22,6 @@ slotlock.json
 
 usercache.json
 
-options.txt
-
 patchouli_data.json
 
 options.amecsapi.txt
@@ -47,8 +45,6 @@ TrashSlotSaveState.json
 automation/secrets.ps1
 
 automation/ModListCreator-1.2.1.jar
-
-*.zip
 
 TwitchExportBuilder.exe
 
