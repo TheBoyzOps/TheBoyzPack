@@ -24,7 +24,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:12
+renderDistance:8
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:3
@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation","file/Fantasy_Ores_Modded[v1.8].zip","file/Fantasy_Ores[1.16.x to 1.19.x][v5].zip"]
-incompatibleResourcePacks:["file/Towers_Of_The_Wild_Reworked_v3.0.0_Fabric_Waystones.zip"]
+resourcePacks:["vanilla","Fabric Mods","minecraft/supporteatinganimation"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:
@@ -66,7 +66,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
@@ -119,6 +119,8 @@ key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
 key_key.ftbquests.quests:key.keyboard.unknown
 key_key.ftbultimine:key.keyboard.grave.accent
+key_keybinds.bettercombat.feint:key.keyboard.r
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.conjuring.toggle_tool_mode:key.keyboard.left.alt
 key_key.entityculling.toggle:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
@@ -134,7 +136,7 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.f7
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:1.0
