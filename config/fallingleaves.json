@@ -424,6 +424,10 @@
     "bewitchment:cypress_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "ad_astra:glacian_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
