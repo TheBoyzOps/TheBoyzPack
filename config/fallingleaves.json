@@ -428,6 +428,10 @@
     "ad_astra:glacian_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "minecraft:warped_wart_block": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
