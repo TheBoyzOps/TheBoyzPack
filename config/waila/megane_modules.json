@@ -1,5 +1,8 @@
 {
   "modules": {
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
     "megane-industrial-revolution": {
       "lol.bai.megane.module.indrev.MeganeIndustrialRevolution": true
     },
